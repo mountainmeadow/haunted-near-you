@@ -1,0 +1,49 @@
+html {
+    max-width: 950px;
+    margin: auto;
+    color: #12FF90;
+  }
+header h1{text-align: center;
+color:#12FF90;}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: transparent;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #12FF90;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+  main{
+    background-color:#F0EFF4 ;
+    margin: 0.6em;
+    padding: 10px
+    text-align: center;
+    max-width: 2000px ;
+    height: 2000px;
+  }
+body{
+    background-color:#000102;
+    padding: 20px;
+    max-width: 1280px;
+    height: 800px;
+}
