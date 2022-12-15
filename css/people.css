@@ -37,25 +37,23 @@ li a:hover {
   background-color: whitesmoke;
 }
 
-main{
-  border: wheat;
-  border-style: solid;
-  margin: 0.6em;
-  padding: 10px;
-  text-align: center;
-  max-width: 800px;
-  height: 800px;
-  
-}
+  main{
+    border: wheat;
+    border-style: solid;
+    margin: 0.6em;
+    padding: 10px;
+    text-align: center;
+    max-width: 1000px;
+    height: 1000px;
+    
+  }
 body{
   background-color:#4F4444;
   padding: 20px;
   max-width: 1280px;
   height: 800px;
 }
-body h1{
-text-align: center;
-}
+
 footer{
 background-color: transparent;
 margin: 0.6em;
