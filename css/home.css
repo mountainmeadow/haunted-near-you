@@ -1,8 +1,8 @@
 html {
     max-width: 950px;
     margin: auto;
- color:whitesmoke;
  font-size: 15px;
+ color: aliceblue;
  
   }
 .header{
@@ -29,9 +29,22 @@ main{
   
 }
 
-main h1,h3{
+main h1{
 text-align: center;
 color: #12FF90;
+background-color: #525485;
+}
+body p{
+text-align: center;
+}
+body p1{
+  text-align: center;
+
+}
+
+main h3{
+  text-align: center;
+
 }
 /*Nav*/
 
