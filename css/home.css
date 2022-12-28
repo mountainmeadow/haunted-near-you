@@ -16,7 +16,10 @@ body{
   height: 800px;
   
 }
-
+body p{
+  text-align: center;
+  }
+  
 main{
   border: wheat;
   border-style: solid;
@@ -34,18 +37,16 @@ text-align: center;
 color: #12FF90;
 background-color: #525485;
 }
-body p{
-text-align: center;
-}
-body p1{
-  text-align: center;
-
-}
 
 main h3{
   text-align: center;
 
 }
+
+
+
+
+
 /*Nav*/
 
 ul{
